@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kanban notes/asr 速度、vram測試.md",
-                "mode": "preview",
+                "file": "Dev/PowerShell Setup Notes for Linux-like Environment.md",
+                "mode": "source",
+                "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "asr 速度、vram測試"
+              "title": "PowerShell Setup Notes for Linux-like Environment"
             }
           },
           {
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban notes/asr 速度、vram測試.md",
+                "file": "Dev/PowerShell Setup Notes for Linux-like Environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for asr 速度、vram測試"
+              "title": "Backlinks for PowerShell Setup Notes for Linux-like Environment"
             }
           },
           {
@@ -158,8 +159,19 @@
               "icon": "lucide-list",
               "title": "Outline of 處裡 whisper streaming 的一些 issue"
             }
+          },
+          {
+            "id": "19c13fc018d6b246",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -184,11 +196,11 @@
   },
   "active": "66480126150ea73b",
   "lastOpenFiles": [
-    "Dev/Whisper-TensorRT LLM.md",
     "Dev/結構化資料結構比較.md",
-    "Dev/PowerShell 開發紀錄.md",
-    "Kanban notes/asr 速度、vram測試.md",
     "Dev/git 成功 push 的情況.md",
+    "Dev/PowerShell Setup Notes for Linux-like Environment.md",
+    "Kanban notes/asr 速度、vram測試.md",
+    "Dev/Whisper-TensorRT LLM.md",
     "Kanban notes/把 whisper_streaming 架設在 GCP Nivida L4 上面.md",
     "Dev/如何在 WSL 上啟用 audio device.md",
     "Tasks.md",
