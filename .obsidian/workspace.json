@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "b1fbad961a611ef0",
+    "type": "split",
+    "children": [
+      {
+        "id": "71f6c8a0b24c19d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66480126150ea73b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kanban notes/asr 速度、vram測試.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "asr 速度、vram測試"
+            }
+          },
+          {
+            "id": "b1b9e24b856b5a59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/git 成功 push 的情況.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git 成功 push 的情況"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb42ab4778d36451",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5913a3eb8b9c12c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5342113ac882a249",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3f431e4dfa49948a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bf18ac071dff8163",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "087b334f12c08622",
+    "type": "split",
+    "children": [
+      {
+        "id": "9904305aa7cf79b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa2dd96cbaeb7cc9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kanban notes/asr 速度、vram測試.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "l",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for asr 速度、vram測試"
+            }
+          },
+          {
+            "id": "3d65dd4b322bcbda",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kanban notes/處裡 whisper streaming 的一些 issue.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 處裡 whisper streaming 的一些 issue"
+            }
+          },
+          {
+            "id": "a35f336fbd2e6123",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8be26204ea48f3c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kanban notes/處裡 whisper streaming 的一些 issue.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 處裡 whisper streaming 的一些 issue"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "66480126150ea73b",
+  "lastOpenFiles": [
+    "Dev/Whisper-TensorRT LLM.md",
+    "Dev/結構化資料結構比較.md",
+    "Dev/PowerShell 開發紀錄.md",
+    "Kanban notes/asr 速度、vram測試.md",
+    "Dev/git 成功 push 的情況.md",
+    "Kanban notes/把 whisper_streaming 架設在 GCP Nivida L4 上面.md",
+    "Dev/如何在 WSL 上啟用 audio device.md",
+    "Tasks.md",
+    "Kanban notes/處裡 whisper streaming 的一些 issue.md",
+    "Kanban notes/新增 asr_streaming_client 的一些功能.md",
+    "Untitled Kanban.md",
+    "Kanban notes/whisper-jax.md",
+    "Dev",
+    "Images/i-compared-the-different-open-source-whisper-packages-for-v0-ntchq1z82jrc1.webp",
+    "Templates/kanban/Kaban template.md",
+    "Kanban notes/測試 SenseVocie Streaming.md",
+    "Templates/kanban",
+    "Templates/paper",
+    "Literature Notes/Turning Whisper into Real-Time Transcription System (2307.14743v2).md",
+    "Templates/paper/paper-review-template.md",
+    "Images/faster_whisper_server_benchmark_max.png",
+    "Images/faster_whisper_server_benchmark_avg.png",
+    "Images/Pasted image 20241202115048.png",
+    "Images",
+    "Pasted image 20241202114748.png",
+    "Assets/Turning Whisper into Real-Time Transcription System (2307.14743v2).pdf",
+    "Kanban Templates",
+    "測試 SenseVocie Streaming.md",
+    "Kanban notes",
+    "Kanbana notes",
+    "Literature Notes/Simul-Whisper Attention-Guided Streaming Whisper with Truncation Detection (2406.10052v1).md",
+    "Assets/Simul-Whisper Attention-Guided Streaming Whisper with Truncation Detection (2406.10052v1).pdf",
+    "Welcome.md",
+    "Templates"
+  ]
+}
