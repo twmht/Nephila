@@ -13,8 +13,8 @@ tags:
   - streaming
 ---
 #研究背景與問題
-- **研究背景**:
-- **核心問題**: 
+- **研究背景**: 將 whisper 用在串流上，並且進一步優化
+- **攻擊對象**: 這篇 paper 主要是在攻擊 whisper-streaming [[Turning Whisper into Real-Time Transcription System (2307.14743v2)]] 本身不夠準確的問題
 
 #方法與技術 
 - **模型/方法**: 

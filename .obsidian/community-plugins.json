@@ -4,5 +4,8 @@
   "templater-obsidian",
   "table-editor-obsidian",
   "pdf-plus",
-  "obsidian-git"
+  "obsidian-git",
+  "codeblock-tabs",
+  "codeblock-customizer",
+  "obsidian-tasks-plugin"
 ]
