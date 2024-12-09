@@ -9,16 +9,21 @@ kanban-plugin: board
 - [ ] [[測試 SenseVocie Streaming]]
 - [ ] [[whisper-jax]]
 - [ ] [[asr 速度、vram測試]]
-- [ ] [[把 whisper_streaming 架設在 GCP Nivida L4 上面]]
 - [ ] [[處裡 whisper streaming 的一些 issue]]
 - [ ] [[新增 asr_streaming_client 的一些功能]]
 - [ ] [[Porting WhisperS2T to whisper_streaming]]
+- [ ] 研究 TensorRT-LLM 0.15.0 whisper
+
+
+## Done
+
+- [ ] [[把 whisper_streaming 架設在 GCP Nivida L4 上面]]
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false]}
+{"kanban-plugin":"board","list-collapse":[false,false]}
 ```
 %%

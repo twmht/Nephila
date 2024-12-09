@@ -11,14 +11,19 @@
             "id": "66480126150ea73b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Templates/Zettelkasten/Fleeting Note.md",
-                "mode": "source",
-                "source": false
+                "file": "Tasks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Fleeting Note"
+              "icon": "lucide-trello",
+              "title": "Tasks"
             }
           },
           {
@@ -107,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Zettelkasten/Fleeting Note.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fleeting Note"
+              "title": "Backlinks for Tasks"
             }
           },
           {
@@ -153,10 +158,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Zettelkasten/Fleeting Note.md"
+                "file": "Tasks.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Fleeting Note"
+              "title": "Outline of Tasks"
             }
           },
           {
@@ -205,12 +210,15 @@
   },
   "active": "66480126150ea73b",
   "lastOpenFiles": [
-    "Fleeting Notes/2024-12-09-17-16-23.md",
+    "Fleeting Notes/2024-12-09-17-36-38.md",
     "Templates/Zettelkasten/Fleeting Note.md",
+    "Tasks.md",
+    "Kanban notes/新增 asr_streaming_client 的一些功能.md",
+    "Fleeting Notes/2024-12-09-17-27-06.md",
+    "Fleeting Notes/2024-12-09-17-16-23.md",
     "Fleeting Notes/20241209171558.md",
     "Fleeting Notes/prefix-2024-12-09.md",
     "Fleeting Notes/aaa.md",
-    "Tasks.md",
     "Dev/結構化資料結構比較.md",
     "Untitled.md",
     "Fleeting Notes",
@@ -228,7 +236,6 @@
     "Dev/如何在 WSL 上啟用 audio device.md",
     "Dev/git 成功 push 的情況.md",
     "Kanban notes/把 whisper_streaming 架設在 GCP Nivida L4 上面.md",
-    "Kanban notes/新增 asr_streaming_client 的一些功能.md",
     "Untitled Kanban.md",
     "Kanban notes/whisper-jax.md",
     "Dev",
@@ -243,8 +250,6 @@
     "Images",
     "Pasted image 20241202114748.png",
     "Kanban Templates",
-    "測試 SenseVocie Streaming.md",
-    "Kanban notes",
-    "Welcome.md"
+    "Kanban notes"
   ]
 }
