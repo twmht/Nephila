@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Zettelkasten/Fleeting Note.md",
+                "file": "Dev/結構化資料結構比較.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fleeting Note"
+              "title": "結構化資料結構比較"
             }
           },
           {
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Zettelkasten/Fleeting Note.md",
+                "file": "Dev/結構化資料結構比較.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fleeting Note"
+              "title": "Backlinks for 結構化資料結構比較"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban notes/處裡 whisper streaming 的一些 issue.md"
+                "file": "Dev/結構化資料結構比較.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 處裡 whisper streaming 的一些 issue"
+              "title": "Outline of 結構化資料結構比較"
             }
           },
           {
@@ -180,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -203,10 +203,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "66480126150ea73b",
+  "active": "721b4182e65975bf",
   "lastOpenFiles": [
-    "Tasks.md",
     "Templates/Zettelkasten/Fleeting Note.md",
+    "Fleeting Notes/Untitled.md",
+    "Untitled.md",
+    "Fleeting Notes",
+    "Tasks.md",
     "Kanban notes/asr 速度、vram測試.md",
     "Templates/Zettelkasten",
     "Dev/Whisper-TensorRT LLM.md",
@@ -239,7 +242,6 @@
     "Kanban Templates",
     "測試 SenseVocie Streaming.md",
     "Kanban notes",
-    "Kanbana notes",
     "Welcome.md"
   ]
 }

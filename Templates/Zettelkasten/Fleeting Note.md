@@ -1,7 +1,7 @@
 ---
 title: <% tp.date.now("YYYYMMDDHHmmss") %>-<% tp.file.cursor(0) %>
 date: <% tp.date.now("YYYY-MM-DD HH:mm") %>
-tags: #fleeting-note
+tags:
 ---
 
 ## 想法 / Observation
@@ -20,4 +20,6 @@ tags: #fleeting-note
 - 關聯標籤: <% tp.frontmatter.tags %>
 - 引用筆記:
   - <% tp.file.find_tfile("example_reference") %>
+
+
 
