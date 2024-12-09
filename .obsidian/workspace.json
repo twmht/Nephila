@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/結構化資料結構比較.md",
+                "file": "Templates/Zettelkasten/Fleeting Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "結構化資料結構比較"
+              "title": "Fleeting Note"
             }
           },
           {
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/結構化資料結構比較.md",
+                "file": "Templates/Zettelkasten/Fleeting Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 結構化資料結構比較"
+              "title": "Backlinks for Fleeting Note"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/結構化資料結構比較.md"
+                "file": "Templates/Zettelkasten/Fleeting Note.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 結構化資料結構比較"
+              "title": "Outline of Fleeting Note"
             }
           },
           {
@@ -203,13 +203,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "721b4182e65975bf",
+  "active": "66480126150ea73b",
   "lastOpenFiles": [
+    "Fleeting Notes/aaa.md",
     "Templates/Zettelkasten/Fleeting Note.md",
-    "Fleeting Notes/Untitled.md",
+    "Tasks.md",
+    "Dev/結構化資料結構比較.md",
     "Untitled.md",
     "Fleeting Notes",
-    "Tasks.md",
     "Kanban notes/asr 速度、vram測試.md",
     "Templates/Zettelkasten",
     "Dev/Whisper-TensorRT LLM.md",
@@ -222,7 +223,6 @@
     "Assets/Simul-Whisper Attention-Guided Streaming Whisper with Truncation Detection (2406.10052v1).pdf",
     "Assets/Turning Whisper into Real-Time Transcription System (2307.14743v2).pdf",
     "Dev/如何在 WSL 上啟用 audio device.md",
-    "Dev/結構化資料結構比較.md",
     "Dev/git 成功 push 的情況.md",
     "Kanban notes/把 whisper_streaming 架設在 GCP Nivida L4 上面.md",
     "Kanban notes/新增 asr_streaming_client 的一些功能.md",
