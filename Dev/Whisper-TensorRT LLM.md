@@ -4,3 +4,5 @@
 4. uv pip install  --no-cache-dir -U torch==2.1.2
 5. uv pip install --no-cache-dir tensorrt_llm==0.8.0.dev2024012301 --extra-index-url https://pypi.nvidia.com
 6. uv pip install pynvml==11.5.0 
+
+[TensorRT 9 not available · Issue #35 · NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM/issues/35)

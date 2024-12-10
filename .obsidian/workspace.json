@@ -11,19 +11,14 @@
             "id": "66480126150ea73b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Tasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "Dev/Whisper-TensorRT LLM.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Tasks"
+              "icon": "lucide-file",
+              "title": "Whisper-TensorRT LLM"
             }
           },
           {
@@ -112,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Dev/Whisper-TensorRT LLM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tasks"
+              "title": "Backlinks for Whisper-TensorRT LLM"
             }
           },
           {
@@ -158,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "Dev/Whisper-TensorRT LLM.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tasks"
+              "title": "Outline of Whisper-TensorRT LLM"
             }
           },
           {
@@ -210,9 +205,9 @@
   },
   "active": "66480126150ea73b",
   "lastOpenFiles": [
+    "Tasks.md",
     "Fleeting Notes/2024-12-09-17-36-38.md",
     "Templates/Zettelkasten/Fleeting Note.md",
-    "Tasks.md",
     "Kanban notes/新增 asr_streaming_client 的一些功能.md",
     "Fleeting Notes/2024-12-09-17-27-06.md",
     "Fleeting Notes/2024-12-09-17-16-23.md",
