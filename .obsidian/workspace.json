@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kanban notes/asr 速度、vram測試、準確度測試.md",
+                "file": "Fleeting Notes/2024-12-10-15-52-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "asr 速度、vram測試、準確度測試"
+              "title": "2024-12-10-15-52-29"
             }
           },
           {
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban notes/asr 速度、vram測試、準確度測試.md",
+                "file": "Fleeting Notes/2024-12-10-15-52-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for asr 速度、vram測試、準確度測試"
+              "title": "Backlinks for 2024-12-10-15-52-29"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban notes/asr 速度、vram測試、準確度測試.md"
+                "file": "Fleeting Notes/2024-12-10-15-52-29.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of asr 速度、vram測試、準確度測試"
+              "title": "Outline of 2024-12-10-15-52-29"
             }
           },
           {
@@ -206,8 +206,9 @@
   "active": "66480126150ea73b",
   "lastOpenFiles": [
     "Fleeting Notes/2024-12-10-14-54-35.md",
-    "Kanban notes/優化 whisper_streaming.md",
+    "Fleeting Notes/2024-12-10-15-52-29.md",
     "Kanban notes/asr 速度、vram測試、準確度測試.md",
+    "Kanban notes/優化 whisper_streaming.md",
     "Tasks.md",
     "Dev/Whisper-TensorRT LLM.md",
     "Fleeting Notes/2024-12-10-13-27-45.md",
@@ -234,7 +235,6 @@
     "Dev/git 成功 push 的情況.md",
     "Kanban notes/把 whisper_streaming 架設在 GCP Nivida L4 上面.md",
     "Untitled Kanban.md",
-    "Kanban notes/whisper-jax.md",
     "Dev",
     "Images/i-compared-the-different-open-source-whisper-packages-for-v0-ntchq1z82jrc1.webp",
     "Templates/kanban",
