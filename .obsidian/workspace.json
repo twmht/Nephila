@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Whisper-TensorRT LLM.md",
+                "file": "Kanban notes/asr 速度、vram測試.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Whisper-TensorRT LLM"
+              "title": "asr 速度、vram測試"
             }
           },
           {
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Whisper-TensorRT LLM.md",
+                "file": "Kanban notes/asr 速度、vram測試.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Whisper-TensorRT LLM"
+              "title": "Backlinks for asr 速度、vram測試"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Whisper-TensorRT LLM.md"
+                "file": "Kanban notes/asr 速度、vram測試.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Whisper-TensorRT LLM"
+              "title": "Outline of asr 速度、vram測試"
             }
           },
           {
@@ -205,6 +205,8 @@
   },
   "active": "66480126150ea73b",
   "lastOpenFiles": [
+    "Dev/Whisper-TensorRT LLM.md",
+    "Kanban notes/asr 速度、vram測試.md",
     "Tasks.md",
     "Fleeting Notes/2024-12-09-17-36-38.md",
     "Templates/Zettelkasten/Fleeting Note.md",
@@ -217,9 +219,7 @@
     "Dev/結構化資料結構比較.md",
     "Untitled.md",
     "Fleeting Notes",
-    "Kanban notes/asr 速度、vram測試.md",
     "Templates/Zettelkasten",
-    "Dev/Whisper-TensorRT LLM.md",
     "Kanban notes/Porting WhisperS2T to whisper_streaming.md",
     "Kanban notes/處裡 whisper streaming 的一些 issue.md",
     "Dev/PowerShell Setup Notes for Linux-like Environment.md",

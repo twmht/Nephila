@@ -6,3 +6,4 @@
 6. uv pip install pynvml==11.5.0 
 
 [TensorRT 9 not available · Issue #35 · NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM/issues/35)
+[TensorRT-LLM for Whisper: AttributeError: 'PretrainedConfig' object has no attribute 'n_audio_ctx' · Issue #2449 · NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM/issues/2449)
