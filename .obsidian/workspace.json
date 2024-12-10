@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kanban notes/asr 速度、vram測試、準確度測試.md",
+                "file": "Fleeting Notes/2024-12-10-14-54-35.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "asr 速度、vram測試、準確度測試"
+              "title": "2024-12-10-14-54-35"
             }
           },
           {
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban notes/asr 速度、vram測試、準確度測試.md",
+                "file": "Fleeting Notes/2024-12-10-14-54-35.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for asr 速度、vram測試、準確度測試"
+              "title": "Backlinks for 2024-12-10-14-54-35"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban notes/asr 速度、vram測試、準確度測試.md"
+                "file": "Fleeting Notes/2024-12-10-14-54-35.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of asr 速度、vram測試、準確度測試"
+              "title": "Outline of 2024-12-10-14-54-35"
             }
           },
           {
@@ -205,12 +205,13 @@
   },
   "active": "66480126150ea73b",
   "lastOpenFiles": [
-    "Tasks.md",
     "Kanban notes/優化 whisper_streaming.md",
+    "Fleeting Notes/2024-12-10-14-54-35.md",
+    "Kanban notes/asr 速度、vram測試、準確度測試.md",
+    "Tasks.md",
     "Dev/Whisper-TensorRT LLM.md",
     "Fleeting Notes/2024-12-10-13-27-45.md",
     "Templates/Zettelkasten/Fleeting Note.md",
-    "Kanban notes/asr 速度、vram測試、準確度測試.md",
     "Fleeting Notes/2024-12-09-17-36-38.md",
     "Kanban notes/新增 asr_streaming_client 的一些功能.md",
     "Fleeting Notes/2024-12-09-17-27-06.md",
@@ -236,7 +237,6 @@
     "Kanban notes/whisper-jax.md",
     "Dev",
     "Images/i-compared-the-different-open-source-whisper-packages-for-v0-ntchq1z82jrc1.webp",
-    "Templates/kanban/Kaban template.md",
     "Templates/kanban",
     "Templates/paper",
     "Images/faster_whisper_server_benchmark_max.png",
