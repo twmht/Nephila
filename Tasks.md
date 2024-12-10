@@ -8,7 +8,7 @@ kanban-plugin: board
 
 - [ ] [[測試 SenseVocie Streaming]]
 - [ ] [[whisper-jax]]
-- [ ] [[asr 速度、vram測試]]
+- [ ] [[asr 速度、vram測試、準確度測試]]
 - [ ] [[優化 whisper_streaming]]
 - [ ] [[新增 asr_streaming_client 的一些功能]]
 - [ ] [[Porting WhisperS2T to whisper_streaming]]
