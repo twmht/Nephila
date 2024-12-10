@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting Notes/2024-12-10-13-27-45.md",
+                "file": "Kanban notes/優化 whisper_streaming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-10-13-27-45"
+              "title": "優化 whisper_streaming"
             }
           },
           {
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/2024-12-10-13-27-45.md",
+                "file": "Kanban notes/優化 whisper_streaming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-12-10-13-27-45"
+              "title": "Backlinks for 優化 whisper_streaming"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting Notes/2024-12-10-13-27-45.md"
+                "file": "Kanban notes/優化 whisper_streaming.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-12-10-13-27-45"
+              "title": "Outline of 優化 whisper_streaming"
             }
           },
           {
@@ -205,11 +205,12 @@
   },
   "active": "66480126150ea73b",
   "lastOpenFiles": [
-    "Templates/Zettelkasten/Fleeting Note.md",
+    "Tasks.md",
+    "Kanban notes/優化 whisper_streaming.md",
     "Fleeting Notes/2024-12-10-13-27-45.md",
+    "Templates/Zettelkasten/Fleeting Note.md",
     "Kanban notes/asr 速度、vram測試.md",
     "Dev/Whisper-TensorRT LLM.md",
-    "Tasks.md",
     "Fleeting Notes/2024-12-09-17-36-38.md",
     "Kanban notes/新增 asr_streaming_client 的一些功能.md",
     "Fleeting Notes/2024-12-09-17-27-06.md",
@@ -222,7 +223,6 @@
     "Fleeting Notes",
     "Templates/Zettelkasten",
     "Kanban notes/Porting WhisperS2T to whisper_streaming.md",
-    "Kanban notes/處裡 whisper streaming 的一些 issue.md",
     "Dev/PowerShell Setup Notes for Linux-like Environment.md",
     "Kanban notes/測試 SenseVocie Streaming.md",
     "Literature Notes/Simul-Whisper Attention-Guided Streaming Whisper with Truncation Detection (2406.10052v1).md",
