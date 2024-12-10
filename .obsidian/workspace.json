@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kanban notes/asr 速度、vram測試.md",
+                "file": "Fleeting Notes/2024-12-10-13-27-45.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "asr 速度、vram測試"
+              "title": "2024-12-10-13-27-45"
             }
           },
           {
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban notes/asr 速度、vram測試.md",
+                "file": "Fleeting Notes/2024-12-10-13-27-45.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for asr 速度、vram測試"
+              "title": "Backlinks for 2024-12-10-13-27-45"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban notes/asr 速度、vram測試.md"
+                "file": "Fleeting Notes/2024-12-10-13-27-45.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of asr 速度、vram測試"
+              "title": "Outline of 2024-12-10-13-27-45"
             }
           },
           {
@@ -205,11 +205,12 @@
   },
   "active": "66480126150ea73b",
   "lastOpenFiles": [
-    "Dev/Whisper-TensorRT LLM.md",
+    "Templates/Zettelkasten/Fleeting Note.md",
+    "Fleeting Notes/2024-12-10-13-27-45.md",
     "Kanban notes/asr 速度、vram測試.md",
+    "Dev/Whisper-TensorRT LLM.md",
     "Tasks.md",
     "Fleeting Notes/2024-12-09-17-36-38.md",
-    "Templates/Zettelkasten/Fleeting Note.md",
     "Kanban notes/新增 asr_streaming_client 的一些功能.md",
     "Fleeting Notes/2024-12-09-17-27-06.md",
     "Fleeting Notes/2024-12-09-17-16-23.md",
@@ -238,7 +239,6 @@
     "Templates/kanban/Kaban template.md",
     "Templates/kanban",
     "Templates/paper",
-    "Templates/paper/paper-review-template.md",
     "Images/faster_whisper_server_benchmark_max.png",
     "Images/faster_whisper_server_benchmark_avg.png",
     "Images/Pasted image 20241202115048.png",
