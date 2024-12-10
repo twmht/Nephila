@@ -20,10 +20,16 @@ kanban-plugin: board
 - [ ] [[把 whisper_streaming 架設在 GCP Nivida L4 上面]]
 
 
+## 公司雜事
+
+- [ ] 將辦公室的 server 重灌成 ubuntu 22.04
+- [ ] 借一台 4090 的 work station
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%
