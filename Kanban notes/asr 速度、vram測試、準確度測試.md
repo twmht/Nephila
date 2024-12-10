@@ -27,10 +27,10 @@
 |       |                  |                    |                         |                         |                              |                    |                                                                    |                                             |                                             |                                                                    |
 |       |                  |                    |                         |                         |                              |                    |                                                                    |                                             |                                             |                                                                    |
 
-|       | RTX 2080 faster whisper | RTX 2080 whisper jax (cu112) |
-| ----- | ----------------------- | -------------------- |
-| 1hour |         4457.50MB                | 8751.50MB            |
-|       |                         |                      |
+|       | RTX 2080 faster whisper | RTX 2080 whisper jax (cu112) | RTX 2080 WhisperS2T TensorRT-LLM (0.8.0.dev2024012301),beam size=5 |
+| ----- | ----------------------- | ---------------------------- | ------------------------------------------------------------------ |
+| 1hour | 4457.50MB               | 8751.50MB                    |                                                                    |
+| Fluer |                         |                              | 9353MB                                                             |
 
 ![[i-compared-the-different-open-source-whisper-packages-for-v0-ntchq1z82jrc1.webp]]
 
