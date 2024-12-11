@@ -122,3 +122,6 @@ pyinstaller --onefile --noconsole audio_client_app.py
 
 With these configurations, PowerShell will operate more like a Linux terminal, improving productivity for users familiar with Linux workflows.
 
+### 參考
+1. [PowerShell 使用 PSReadLine 模組 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10286287)
+2. 

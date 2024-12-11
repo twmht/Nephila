@@ -15,6 +15,7 @@ kanban-plugin: board
 - [ ] 研究 TensorRT-LLM 0.15.0 whisper
 - [ ] [[研究斷句跟翻譯]]
 - [ ] 測試 gladia
+- [ ] [[研究 whisper-trition]]
 
 
 ## Done
@@ -26,12 +27,34 @@ kanban-plugin: board
 ## 公司雜事
 
 - [ ] 將辦公室的 server 重灌成 ubuntu 22.04
+- [ ] [open-mmlab/StyleShot: StyleShot: A SnapShot on Any Style. 一款可以迁移任意风格到任意内容的模型，无需针对图片微调，即能生成高质量的个性风格化图片!](https://github.com/open-mmlab/StyleShot)
+
+
+## Foundation Model
+
+- [ ] [[Finetune Florence-2 on object detection]]
+
+
+## object detection
+
+- [ ] [[研究 RT-DETR]]
+
+
+## Model Compression
+
+- [ ] [HankYe/PAGCP: [T-PAMI'23] PAGCP for the compression of YOLOv5](https://github.com/HankYe/PAGCP)
+
+
+## OCR
+
+- [ ] [devmaxxing/videocr-PaddleOCR: Extract hardcoded subtitles from videos using machine learning](https://github.com/devmaxxing/videocr-PaddleOCR)
+- [ ] [apm1467/videocr: Extract hardcoded subtitles from videos using machine learning](https://github.com/apm1467/videocr)
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false]}
 ```
 %%
