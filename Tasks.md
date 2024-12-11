@@ -16,6 +16,7 @@ kanban-plugin: board
 - [ ] [[研究斷句跟翻譯]]
 - [ ] 測試 gladia
 - [ ] [[研究 whisper-trition]]
+- [ ] ⏫ 用 4090 架 whisper http server, cloudflare
 
 
 ## Done

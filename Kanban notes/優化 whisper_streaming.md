@@ -14,6 +14,8 @@
 #### Features
 - [ ] 🔼 優化串流塊  [whisper_streaming/whisper_online_server.py at main · ufal/whisper_streaming](https://github.com/ufal/whisper_streaming/blob/main/whisper_online_server.py#L110) ，可能要研究  webrtc
 - [ ] 🔼 整合 stable-ts [jianfch/stable-ts: Transcription, forced alignment, and audio indexing with OpenAI's Whisper](https://github.com/jianfch/stable-ts)
+- [ ] ⏫ hotword
+- [ ] 
 ### 希望得到的資訊
 ### 怎麼做
 ### 結論
