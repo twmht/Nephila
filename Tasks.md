@@ -14,6 +14,7 @@ kanban-plugin: board
 - [ ] [[Porting WhisperS2T to whisper_streaming]]
 - [ ] 研究 TensorRT-LLM 0.15.0 whisper
 - [ ] 再多安裝兩個 VM
+- [ ] 研究斷句跟翻譯
 
 
 ## Done
