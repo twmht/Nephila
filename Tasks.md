@@ -13,14 +13,14 @@ kanban-plugin: board
 - [ ] [[新增 asr_streaming_client 的一些功能]]
 - [ ] [[Porting WhisperS2T to whisper_streaming]]
 - [ ] 研究 TensorRT-LLM 0.15.0 whisper
-- [ ] 再多安裝兩個 VM
-- [ ] 研究斷句跟翻譯
+- [ ] [[研究斷句跟翻譯]]
 - [ ] 測試 gladia
 
 
 ## Done
 
-- [ ] [[把 whisper_streaming 架設在 GCP Nivida L4 上面]]
+- [x] 再多安裝兩個 VM ✅ 2024-12-11
+- [x] [[把 whisper_streaming 架設在 GCP Nivida L4 上面]] ✅ 2024-12-11
 
 
 ## 公司雜事
