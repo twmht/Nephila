@@ -5,7 +5,8 @@
 #### Issues
 - [ ] 有時候會比對很久才去 confirm，然後會 confirm 出一長串出來
 - [ ] faster-whisper 閒置太久會掛掉
-- [ ] 簡轉繁體
+- [ ] server 端簡轉繁體
+- [ ] 詞級別轉成字級別
 
 
 ![[Pasted image 20241211153338.png]]
