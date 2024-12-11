@@ -15,6 +15,7 @@ kanban-plugin: board
 - [ ] 研究 TensorRT-LLM 0.15.0 whisper
 - [ ] 再多安裝兩個 VM
 - [ ] 研究斷句跟翻譯
+- [ ] 測試 gladia
 
 
 ## Done
