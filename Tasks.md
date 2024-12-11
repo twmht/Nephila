@@ -13,6 +13,7 @@ kanban-plugin: board
 - [ ] [[新增 asr_streaming_client 的一些功能]]
 - [ ] [[Porting WhisperS2T to whisper_streaming]]
 - [ ] 研究 TensorRT-LLM 0.15.0 whisper
+- [ ] 再多安裝兩個 VM
 
 
 ## Done
@@ -23,7 +24,6 @@ kanban-plugin: board
 ## 公司雜事
 
 - [ ] 將辦公室的 server 重灌成 ubuntu 22.04
-- [ ] 借一台 4090 的 work station
 
 
 
