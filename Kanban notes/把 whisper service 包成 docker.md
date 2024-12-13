@@ -4,7 +4,7 @@
 GCP 啟動的時候可以直接啟動 docker，方便部屬環境
 
 #### 目前碰到的問題
-- [ ] ⏫ 只有當有 request 的時候 docker 才會下載 ，看起來必須先把 ckpt 裝到 docker 裡面
+- [x] ⏫ 只有當有 request 的時候 docker 才會下載 ，看起來必須先把 ckpt 裝到 docker 裡面 ✅ 2024-12-13
 ### 希望得到的資訊
 ### 怎麼做
 ### 結論
