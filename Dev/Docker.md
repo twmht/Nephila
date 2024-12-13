@@ -1,0 +1,1 @@
+* 使用以下命令清理无标签的 `<none>` 镜像: docker image prune -f
