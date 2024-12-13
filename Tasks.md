@@ -17,6 +17,7 @@ kanban-plugin: board
 - [ ] 測試 gladia
 - [ ] [[研究 whisper-trition]]
 - [ ] ⏫ 用 4090 架 whisper http server, cloudflare
+- [ ] [[把 whisper service 包成 docker]]
 
 
 ## Done
