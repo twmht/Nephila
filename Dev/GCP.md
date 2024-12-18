@@ -9,5 +9,9 @@ gcloud auth configure-docker
 4. 在自己的 local 上 build 自己要的 image
 5. 然後下 tag
 ```bash
-
+ docker tag eed53890f6dd asia.gcr.io/aic-addvalue-dev/asr-streaming-server:1.1.0
+```
+6.  push image
+```
+ docker push asia.gcr.io/aic-addvalue-dev/asr-streaming-server:1.1.0
 ```
