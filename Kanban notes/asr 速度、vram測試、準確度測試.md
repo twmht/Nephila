@@ -32,6 +32,7 @@
 | 1hour | 4457.50MB               | 8751.50MB                    |                                                                    |
 | Fluer |                         |                              | 9353MB                                                             |
 
+
 ![[i-compared-the-different-open-source-whisper-packages-for-v0-ntchq1z82jrc1.webp]]
 
 ### 參考
