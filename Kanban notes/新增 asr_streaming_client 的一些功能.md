@@ -6,9 +6,10 @@ asr client 可以在 client 上做一些設定，而不是寫死在 server 端
 - [ ] 是否是用 Little_endian 的方式在傳
 - [ ] 
 #### Feautres
-- [ ]  設定 language 跟 chunk size 等設定
+- [x] 設定 language 跟 chunk size 等設定 ✅ 2024-12-18
 - [ ]  raw string to msgpack or something like json, protobuf...
-- [ ] 加上版號
+- [x] 加上版號 ✅ 2024-12-18
+- [ ] 支援 wav 以外的格式
 
 #### BugFix
 - [x] ⏫ Fix invalid utf-8 characters ✅ 2024-12-09

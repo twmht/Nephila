@@ -29,5 +29,5 @@ gcloud auth configure-docker
 ```
 8. 給他跑起來
 ```bash
-docker run -d -p 43007:43007 --name asr-streaming-server-container asia.gcr.io/aic-addvalue-dev/asr-streaming-server:1.1.0
+`docker run -d -p 43007:43007 --name asr-streaming-server-container --restart always asia.gcr.io/aic-addvalue-dev/asr-streaming-server:1.1.0`
 ```
