@@ -31,3 +31,10 @@ gcloud auth configure-docker
 ```bash
 `docker run -d -p 43007:43007 --name asr-streaming-server-container --restart always asia.gcr.io/aic-addvalue-dev/asr-streaming-server:1.1.0`
 ```
+9. GCP 上整個流程
+```
+docker pull asia.gcr.io/aic-addvalue-dev/asr-streaming-server:latest
+docker pull asia.gcr.io/aic-addvalue-dev/asr-offline-server:latest
+docker run -d -p 43007:43007 --name asr-streaming-server-container --restart always asia.gcr.io/aic-addvalue-dev/asr-streaming-server:latest
+docker run -d -p 8000:8000 --name asr-offline-server-container --restart always asia.gcr.io/aic-addvalue-dev/asr-offline-server:latest
+```
