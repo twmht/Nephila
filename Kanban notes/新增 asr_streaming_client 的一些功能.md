@@ -10,6 +10,7 @@ asr client 可以在 client 上做一些設定，而不是寫死在 server 端
 - [ ]  raw string to msgpack or something like json, protobuf...
 - [x] 加上版號 ✅ 2024-12-18
 - [ ] 支援 wav 以外的格式
+- [ ] 將 vad、vac、none 加入可選的選項裡面
 
 #### BugFix
 - [x] ⏫ Fix invalid utf-8 characters ✅ 2024-12-09
