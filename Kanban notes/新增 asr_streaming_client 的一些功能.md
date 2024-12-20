@@ -18,3 +18,4 @@ asr client 可以在 client 上做一些設定，而不是寫死在 server 端
 ### 怎麼做
 ### 結論
 ### 參考
+1. [JSON、Protobuf、Thrift、MessagePack 对比和开发指南_星恒Android的技术博客_51CTO博客](https://blog.51cto.com/u_13952501/2173038)
