@@ -39,3 +39,4 @@ docker pull asia.gcr.io/aic-addvalue-dev/asr-offline-server:latest
 docker run -d -p 43007:43007 --name asr-streaming-server-container --restart always asia.gcr.io/aic-addvalue-dev/asr-streaming-server:latest
 docker run -d -p 8000:8000 --name asr-offline-server-container --restart always asia.gcr.io/aic-addvalue-dev/asr-offline-server:latest
 ```
+10. GCP registry: [Digests for asr-streaming-server – Artifact Registry – aic-addvalue-dev – Google Cloud console](https://console.cloud.google.com/artifacts/docker/aic-addvalue-dev/asia/asia.gcr.io/asr-streaming-server?invt=AbkrVA&project=aic-addvalue-dev)
