@@ -118,6 +118,14 @@ Create a standalone Python executable:
 pyinstaller --onefile --noconsole audio_client_app.py
 ```
 
+## 9. Install PSReadline
+```
+1. `Install-Module -Name PSReadLine -Force`
+2. `Get-PSReadLineKeyHandler`
+3. `Set-PSReadLineKeyHandler -Key Tab -Function MenuComplete`
+4. `Get-Module PSReadLine -ListAvailable | Select-Object Name, Version, Path`
+5. 手動刪除舊的版本
+```
 ---
 
 With these configurations, PowerShell will operate more like a Linux terminal, improving productivity for users familiar with Linux workflows.
