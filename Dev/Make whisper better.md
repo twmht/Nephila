@@ -1,2 +1,3 @@
 ### 參考
-1. 
+1. [Whisper : Speech Recognition Model Capable of Recognizing 99 Languages | by David Cochard | axinc-ai | Medium](https://medium.com/axinc-ai/whisper-speech-recognition-model-capable-of-recognizing-99-languages-5b5cf0197c16)
+2. [Prompt Engineering in Whisper. Whisper, an AI model for speech… | by David Cochard | axinc-ai | Medium](https://medium.com/axinc-ai/prompt-engineering-in-whisper-6bb18003562d)
