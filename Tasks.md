@@ -16,7 +16,6 @@ kanban-plugin: board
 - [ ] [[研究斷句跟翻譯]]
 - [ ] 測試 gladia
 - [ ] [[研究 whisper-trition]]
-- [ ] 增加 dev server
 
 
 ## Done
@@ -25,6 +24,7 @@ kanban-plugin: board
 - [x] [[把 whisper_streaming 架設在 GCP Nivida L4 上面]] ✅ 2024-12-11
 - [x] [[把 whisper service 包成 docker]] ✅ 2024-12-20
 - [x] ⏫ 用 4090 架 whisper http server, cloudflare ✅ 2024-12-20
+- [x] 增加 dev server ✅ 2024-12-24
 
 
 ## 公司雜事
