@@ -8,3 +8,4 @@
 7. [最强终端，WezTerm配置分享-CSDN博客](https://blog.csdn.net/weixin_42380501/article/details/136683735)
 8. [KevinSilvester/wezterm-config: My WezTerm Config](https://github.com/KevinSilvester/wezterm-config)
 9. [michaelbrusegard/awesome-wezterm: Collections of awesome WezTerm plugins.](https://github.com/michaelbrusegard/awesome-wezterm?tab=readme-ov-file)
+10. [Zsh / Oh-my-zsh on Windows Git Bash](https://gist.github.com/glenkusuma/7d7df65a89e485ec2f4690fdc88fffd6#install-git-bash-with-zsh-oh-my-zsh--powerlevel10k--windows-guide)
