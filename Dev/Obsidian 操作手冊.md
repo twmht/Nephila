@@ -22,3 +22,9 @@
 	1. [Fevol/obsidian-translate: Translate text and entire notes in Obsidian](https://github.com/Fevol/obsidian-translate)
 7. Latex
 	1. [Embed Latex Math Into Your Website or Blog - Embed Fun](https://math.embed.fun/bjGokkfj39kLkBB34K9DUz)
+8. Publish
+	1. [Mermaid diagrams - obsidian-mkdocs template](https://jobindjohn.github.io/obsidian-publish-mkdocs/Features/Mermaid%20Diagrams/)
+	2. [Blog | Dariusz Woźniak | Blog](https://dariuszwozniak.net/blog)
+	3. [Image Gallery Starter](https://vercel.com/templates/next.js/image-gallery-starter)
+	4. [X 上的 Guoqi Sun🦋@guoqi.dev：「https://t.co/6zvjZci4tT 感谢大佬提供的方案，我稍微改造了一下，真的泰酷辣🥳 （图片存在 Cloudinary 上，用 Vercel 部署的，已经压缩过了，但速度还是有点感人🫣） 照片打印机已就绪，上个月 1000 粉抽奖中奖的朋友随便挑三张，我下周寄出去（鸽了一个月了，怪不好意思的🥺） https://t.co/6SbcXdnzNj」 / X](https://x.com/sun0225SUN/status/1779502732321407097?prefetchTimestamp=1735446773583&mx=2)
+	5. [Photo Blog with Admin Panel](https://vercel.com/templates/next.js/photo-blog)

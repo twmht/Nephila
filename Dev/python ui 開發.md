@@ -1,0 +1,4 @@
+1. [rdbende/Sun-Valley-ttk-theme: A gorgeous theme for Tkinter/ttk, based on the Sun Valley visual style ✨](https://github.com/rdbende/Sun-Valley-ttk-theme)
+2. [hoffstadt/DearPyGui: Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies](https://github.com/hoffstadt/DearPyGui)
+3. [Flet讓Python開發者可以在不具備前端經驗的情況下，輕鬆構建美觀的網頁、桌面和行動應用程式！ - 無聊就學AI LAB - Medium](https://medium.com/@akiraxtwo.dev/flet%E8%AE%93python%E9%96%8B%E7%99%BC%E8%80%85%E5%8F%AF%E4%BB%A5%E5%9C%A8%E4%B8%8D%E5%85%B7%E5%82%99%E5%89%8D%E7%AB%AF%E7%B6%93%E9%A9%97%E7%9A%84%E6%83%85%E6%B3%81%E4%B8%8B-%E8%BC%95%E9%AC%86%E6%A7%8B%E5%BB%BA%E7%BE%8E%E8%A7%80%E7%9A%84%E7%B6%B2%E9%A0%81-%E6%A1%8C%E9%9D%A2%E5%92%8C%E8%A1%8C%E5%8B%95%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F-c15896b81766)
+4. [Tkinter, Gradio, and DearPyGUI : r/Python](https://www.reddit.com/r/Python/comments/16p4rgd/tkinter_gradio_and_dearpygui/)
