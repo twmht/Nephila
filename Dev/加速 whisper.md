@@ -1,0 +1,2 @@
+1. [Speculative Decoding for 2x Faster Whisper Inference](https://huggingface.co/blog/whisper-speculative-decoding)
+2. [Vaibhavs10/optimise-my-whisper](https://github.com/Vaibhavs10/optimise-my-whisper)
