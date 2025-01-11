@@ -1,0 +1,1 @@
+1. [Rev Reverb ASR + Diarization – The World’s Best Open Source ASR for Long-Form Audio : r/speechtech](https://www.reddit.com/r/speechtech/comments/1fvcr8b/rev_reverb_asr_diarization_the_worlds_best_open/)
