@@ -1,5 +1,6 @@
 ## Faster Whisper 
 * batch size 1
+* vad_filter: 1
 
 | File Name                                                                                                  | WER    | Substitutions | Insertions | Deletions | Total Errors |
 | ---------------------------------------------------------------------------------------------------------- | ------ | ------------- | ---------- | --------- | ------------ |
@@ -13,3 +14,4 @@
 | 為什麼不該追求愛情 Why shouldn't we "pursue" love? \| 國洋 張 \| TEDxFJU.mp3                                           | 8.63%  | 125           | 224        | 118       | 467          |
 | 如何不讓人生留下遺憾? \| Breaking the power of guilt \| 陳永儀 May Chen \| TEDxTaipei.mp3                               | 3.22%  | 52            | 13         | 32        | 97           |
 | Omniverse 如何透過客製化工作流與 AI 加速創作／陳易昇 NVIDIA 資深經理 \| #gaiconf #生成式AI年會 #generativeai #gai2023 #genai.mp3       | 8.40%  | 157           | 135        | 432       | 724          |
+## Batched Faster Whisper 
