@@ -64,3 +64,89 @@
 ### **总结**
 
 如果在 **MMC** 中找不到 **文件** 菜单，可能是菜单栏被隐藏或当前 MMC 实例受限。可以通过快捷键 `Alt + F` 调用文件菜单，或直接运行 `certmgr.msc` 进入证书管理界面。
+
+
+要获取 `certificatename`，您需要通过 **Microsoft Management Console (MMC)** 或 **certutil 命令行工具** 查看证书的详细信息。
+
+---
+
+### **方法 1：通过 MMC 获取 certificatename**
+
+1. **打开 MMC：**
+    
+    - 按下 `Win + R` 打开运行窗口。
+    - 输入 `mmc`，然后按回车。
+2. **添加证书管理单元：**
+    
+    - 点击 **文件** -> **添加/删除管理单元**。
+    - 在左侧选择 **证书**，然后点击 **添加**。
+    - 选择合适的证书存储：
+        - **我的用户账户**（如果证书与用户相关）。
+        - **计算机账户**（如果证书与机器相关）。
+    - 点击 **完成**，然后点击 **确定**。
+3. **找到目标证书：**
+    
+    - 在 MMC 左侧的导航栏中，展开 **证书** -> **个人** -> **证书**。
+    - 在右侧找到目标证书。
+4. **查看 certificatename：**
+    
+    - 双击目标证书打开。
+    - 在 **详细信息** 选项卡中，查找 **颁发者 (Issuer)** 或 **主题 (Subject)**。
+    - certificatename 通常是显示为 **CN=XXX** 的部分，其中 `XXX` 是证书的名称。
+
+---
+
+### **方法 2：使用 certutil 命令**
+
+1. **打开命令提示符：**
+    
+    - 按下 `Win + R`，输入 `cmd`，然后按回车。
+2. **列出所有证书：**
+    
+    - 执行以下命令，列出当前用户的证书：
+        
+        ```cmd
+        certutil -store my
+        ```
+        
+    - 或者列出本地计算机的证书：
+        
+        ```cmd
+        certutil -store -user my
+        ```
+        
+3. **找到目标证书：**
+    
+    - 在输出中找到与您的证书匹配的条目。
+    - **Subject Name** 或 **Issued To** 显示的内容通常是 certificatename。
+
+---
+
+### **方法 3：通过 PowerShell 获取 certificatename**
+
+1. **打开 PowerShell：**
+    
+    - 按下 `Win + R`，输入 `powershell`，然后按回车。
+2. **运行以下命令：**
+    
+    ```powershell
+    Get-ChildItem Cert:\CurrentUser\My | Select-Object Subject, Thumbprint
+    ```
+    
+    或者针对本地计算机：
+    
+    ```powershell
+    Get-ChildItem Cert:\LocalMachine\My | Select-Object Subject, Thumbprint
+    ```
+    
+3. **找到 Subject：**
+    
+    - `Subject` 字段的值就是 certificatename。
+
+---
+
+### **总结**
+
+- **certificatename** 通常是证书的 `Subject Name` 或 `Issued To`。
+- 使用 MMC、`certutil` 或 PowerShell 都可以轻松获取证书的名称。
+- 确保您选择的证书名称与签名所需的证书一致。
