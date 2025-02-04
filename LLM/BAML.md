@@ -1,0 +1,1 @@
+[BoundaryML/baml: BAML is a language that helps you get structured data from LLMs, with the best DX possible. Works with all languages. Check out the promptfiddle.com playground](https://github.com/boundaryml/baml?tab=readme-ov-file)
