@@ -19,3 +19,7 @@ ssh-add -l
 ```bash
 
 ```
+
+## git checkout 
+
+`git submodule update --init --recursive`
