@@ -62,3 +62,9 @@ docker images
 **7. 使用 `.dockerignore` 文件**
 
 在構建映像時，使用 `.dockerignore` 文件來排除不必要的檔案和目錄，這樣可以減少映像的大小。
+
+**7. docker gpu dead**
+
+https://github.com/HaveAGitGat/Tdarr/issues/666#issuecomment-1368171781
+https://github.com/jellyfin/jellyfin/issues/9287
+[Docker NVIDIA HW doesn't work after a few hours - Linux - Emby Community](https://emby.media/community/index.php?/topic/128480-docker-nvidia-hw-doesnt-work-after-a-few-hours/)
