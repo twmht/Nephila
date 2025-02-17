@@ -1,0 +1,1 @@
+[魔搭社区](https://modelscope.cn/models/iic/speech_fsmn_vad_zh-cn-16k-common-pytorch/summary)

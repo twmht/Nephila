@@ -254,3 +254,6 @@ Whisper 採用 **標準的 Transformer Encoder-Decoder 架構**，因此包含�
 6. **Encoder-Decoder Attention** → 讓音訊特徵與語言轉錄對齊
 
 🚀 **Whisper 的 Attention 設計類似於機器翻譯（如 T5、BART），但適用於語音轉錄，使其能夠高效地將音訊轉換為文字！** 🎯
+
+
+[Whisper Timestamps · Issue #647 · NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM/issues/647)

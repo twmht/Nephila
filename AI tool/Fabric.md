@@ -1,0 +1,1 @@
+[Fabric: The Best AI Tool That Nobody is Talking About | by Prakash Joshi Pax | Medium](https://medium.com/@beingpax/why-fabric-ai-can-change-the-way-you-use-ai-973e725354da)
